@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import "./teleporthq/style.module.css";
 import Home from "./teleporthq/pages/home";
 
-// hello new info here :)
+// hello new info here :) - hello guys
 
 const App = () => {
   return (
